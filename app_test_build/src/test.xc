@@ -2,6 +2,6 @@
 int f(int);
 
 int main() {
-  xprintintln(f(5));
+  vxprintintln(f(5));
   return 0;
 }
